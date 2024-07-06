@@ -51,8 +51,12 @@ II. In-depth Exploration:
 placed?
 * During what time of the day, do the Brazilian customers mostly place their
 orders? (Dawn, Morning, Afternoon or Night)
+
    ● 0-6 hrs : Dawn
+  
    ● 7-12 hrs : Mornings
+  
    ● 13-18 hrs : Afternoon
+  
    ● 19-23 hrs : Night
 
