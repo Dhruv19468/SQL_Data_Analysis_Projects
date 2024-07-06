@@ -42,8 +42,6 @@ I. Import the dataset and do usual exploratory analysis steps like checking the
 structure & characteristics of the dataset.
 
 * Data type of all columns in the “customers” table.
-   
-   B. Get the time range between which the orders were placed.
-   
-   C. Count the Cities & States of customers who ordered during the given period.
+* Get the time range between which the orders were placed.
+* Count the Cities & States of customers who ordered during the given period.
 
