@@ -36,7 +36,7 @@ The data is available in 8 different csv files:
 8. sellers.csv
 
 
-What are we exploring about the data set?
+#What are we exploring about the data set?
 
 I. Import the dataset and do usual exploratory analysis steps like checking the
 structure & characteristics of the dataset.
