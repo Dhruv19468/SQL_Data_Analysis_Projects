@@ -24,3 +24,22 @@ Target's operations in Brazil. The information can shed light on various aspects
 business, such as order processing, pricing strategies, payment and shipping efficiency,
 customer demographics, product characteristics, and customer satisfaction levels.
 
+
+
+The data is available in 8 different csv files:
+1. customers.csv
+   
+2. geolocation.csv
+   
+3. order_items.csv
+   
+3. payments.csv
+   
+4. reviews.csv
+    
+5. orders.csv
+    
+6. products.csv
+    
+7. sellers.csv
+
