@@ -1,9 +1,9 @@
 # SQL_Data_Analysis_Projects
 This is a end to end Data Analysis Project on Data set from Target Corporation.
 
-Why this case study?
+## Why this case study?
 
-From company’s perspective:
+### From company’s perspective:
  
  
  ● Target is a globally renowned brand and a prominent retailer in the United States.
@@ -25,7 +25,7 @@ business, such as order processing, pricing strategies, payment and shipping eff
 customer demographics, product characteristics, and customer satisfaction levels.
 
 
-The data is available in 8 different csv files:
+### The data is available in 8 different csv files:
 1. customers.csv
 2. geolocation.csv 
 3. order_items.csv
@@ -36,7 +36,7 @@ The data is available in 8 different csv files:
 8. sellers.csv
 
 
-# What are we exploring about the data set?
+## What are we exploring about the data set?
 
 I. Import the dataset and do usual exploratory analysis steps like checking the
 structure & characteristics of the dataset.
