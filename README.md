@@ -60,3 +60,29 @@ orders? (Dawn, Morning, Afternoon or Night)
   
    ● 19-23 hrs : Night
 
+III. Evolution of E-commerce orders in the Brazil region:
+* Get the month on month no. of orders placed in each state.
+* How are the customers distributed across all the states?
+
+IV. Impact on Economy: Analyze the money movement by e-commerce by looking at
+order prices, freight and others.
+* Get the % increase in the cost of orders from year 2017 to 2018 (include
+months between Jan to Aug only).
+* Calculate the Total & Average value of order price for each state.
+* Calculate the Total & Average value of order freight for each state.
+
+V. Analysis based on sales, freight and delivery time.
+* Find the no. of days taken to deliver each order from the order’s purchase date
+as delivery time.
+Also, calculate the difference (in days) between the estimated & actual delivery
+date of an order.
+* Find out the top 5 states with the highest & lowest average freight value.
+* Find out the top 5 states with the highest & lowest average delivery time.
+* Find out the top 5 states where the order delivery is really fast as compared to
+the estimated date of delivery.
+
+VI. Analysis based on the payments:
+* Find the month on month no. of orders placed using different payment types.
+* Find the no. of orders placed on the basis of the payment installments that have
+been paid.
+
