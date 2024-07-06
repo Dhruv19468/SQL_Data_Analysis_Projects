@@ -45,3 +45,14 @@ structure & characteristics of the dataset.
 * Get the time range between which the orders were placed.
 * Count the Cities & States of customers who ordered during the given period.
 
+II. In-depth Exploration:
+* Is there a growing trend in the no. of orders placed over the past years?
+* Can we see some kind of monthly seasonality in terms of the no. of orders being
+placed?
+* During what time of the day, do the Brazilian customers mostly place their
+orders? (Dawn, Morning, Afternoon or Night)
+   ● 0-6 hrs : Dawn
+   ● 7-12 hrs : Mornings
+   ● 13-18 hrs : Afternoon
+   ● 19-23 hrs : Night
+
