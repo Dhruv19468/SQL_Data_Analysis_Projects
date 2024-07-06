@@ -25,9 +25,6 @@ business, such as order processing, pricing strategies, payment and shipping eff
 customer demographics, product characteristics, and customer satisfaction levels.
 
 
-
-
-
 The data is available in 8 different csv files:
 1. customers.csv
 2. geolocation.csv 
@@ -37,4 +34,13 @@ The data is available in 8 different csv files:
 6. orders.csv
 7. products.csv
 8. sellers.csv
+
+
+What are we exploring about the data set?
+
+I. Import the dataset and do usual exploratory analysis steps like checking the
+structure & characteristics of the dataset.
+   A. Data type of all columns in the “customers” table.
+   B. Get the time range between which the orders were placed.
+   C. Count the Cities & States of customers who ordered during the given period.
 
