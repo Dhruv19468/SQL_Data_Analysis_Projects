@@ -1,6 +1,12 @@
 # SQL_Data_Analysis_Projects
 This is a end to end Data Analysis Project on Data set from Target Corporation.
 
+Case study has been done on Big Query.
+
+Data Set is attached in the repository.
+
+
+
 ## Why this case study?
 
 ### From company’s perspective:
@@ -85,4 +91,6 @@ VI. Analysis based on the payments:
 * Find the month on month no. of orders placed using different payment types.
 * Find the no. of orders placed on the basis of the payment installments that have
 been paid.
+
+### Recommendation and Insights concluded from the data analysis has been mentined in the PDF at evry step.
 
