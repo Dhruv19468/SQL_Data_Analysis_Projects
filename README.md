@@ -30,7 +30,6 @@ customer demographics, product characteristics, and customer satisfaction levels
 
 The data is available in 8 different csv files:
 1. customers.csv
-   
 2. geolocation.csv
    
 3. order_items.csv
